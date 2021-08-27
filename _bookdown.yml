@@ -5,7 +5,7 @@ rmd_files:
 #- 00-software.Rmd
 - 00-usage.Rmd
 - 01-remote_sensing.Rmd
-- 02-cross-refs.Rmd
+- 02-bookdown.Rmd
 #- 03-prac3.Rmd
 #- 04-prac4.Rmd
 #- 05-prac5.Rmd

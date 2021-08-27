@@ -1,5 +1,10 @@
 remote-sensing-101
 learning-outcomes-1
 homework
+introduction
+images
+resolutions
+sensors
+data-exploration
 cross
 learning-outcomes-2

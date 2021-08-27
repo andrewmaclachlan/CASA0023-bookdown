@@ -34,6 +34,29 @@ Each week you need to write a response to the workbook questions
 - [What is remote sensing](https://www.youtube.com/watch?v=N49PzLDUIFQ)
 :::
 
+## Introduction 
+
 Within this first practical we are going to focus on loading and manipulating remotely sensed data and exploring the different resolutions. 
+
+All data from remote sensing is raster based, but the data itself can come in a variety of formats such as ASCII (ESRI format), GeoTiff, band sequential and more.It's important to know that fundamentally they are all still the same gridded raster data, but you may need to use different functions to load them. 
+
+## Images 
+
+
+
+## Resolutions 
+
+In Earth Observation there are four main resolutions that dictate the viability (and usefulness) of the data, based on the application. These resolutions are:
+
+* Spectral 
+* Spatial
+* Temporal
+* Radiometric 
+
+## Sensors 
+
+## Data exploration
+
+
 
 
