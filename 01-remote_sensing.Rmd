@@ -1,0 +1,39 @@
+# (PART) Remote Sensing {.unnumbered}
+
+# Remote Sensing 101
+
+## Learning outcomes
+
+By the end of this practical you should be able to:
+
+1.
+1.
+
+## Homework
+
+Outside of our scheduled sessions you should be doing around 11 hours of extra study per week. Feel free to follow your own  interests, but good places to start include the following:
+
+::: {.infobox .assignment data-latex="{note}"}
+
+**Workbook**
+
+Each week you need to write a response to the workbook questions
+
+:::
+
+::: {.infobox .note data-latex="{note}"}
+**Reading**
+
+- Landsat: Building a strong future, @lovelandLandsatBuildingStrong2012
+- Global science for city policy, @MicheleAcuto2018
+- Opening the archive: How free data has enabled the science and monitoring promise of Landsat,  @wulderOpeningArchiveHow2012
+- [NASA remote sensing background](https://earthdata.nasa.gov/learn/backgrounders/remote-sensing)
+
+**Watching** 
+
+- [What is remote sensing](https://www.youtube.com/watch?v=N49PzLDUIFQ)
+:::
+
+Within this first practical we are going to focus on loading and manipulating remotely sensed data and exploring the different resolutions. 
+
+
